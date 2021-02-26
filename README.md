@@ -1,0 +1,2 @@
+# saleor
+Store
